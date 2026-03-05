@@ -1,0 +1,5 @@
+{
+  "name": "Lumina Upscaler",
+  "description": "Image enhancement tool using Gemini 2.5 Flash to improve image clarity and details.",
+  "requestFramePermissions": []
+}
